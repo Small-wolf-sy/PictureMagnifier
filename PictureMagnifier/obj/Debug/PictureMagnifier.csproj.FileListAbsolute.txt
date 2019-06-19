@@ -1,0 +1,9 @@
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\bin\Debug\PictureMagnifier.exe.config
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\bin\Debug\PictureMagnifier.exe
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\bin\Debug\PictureMagnifier.pdb
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.csprojResolveAssemblyReference.cache
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.Form1.resources
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.Properties.Resources.resources
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.csproj.GenerateResource.Cache
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.exe
+E:\CodePractice\自己写的整合项目集\PictureMagnifier\PictureMagnifier\obj\Debug\PictureMagnifier.pdb
