@@ -11,6 +11,12 @@ namespace PictureMagnifier
     //该类与所有的图片处理函数有关
     public static class PicFunction
     {
+        /// <summary>
+        /// 调整图片大小
+        /// </summary>
+        /// <param name="imgToResize"></param>源图片
+        /// <param name="size"></param>调整尺寸
+        /// <returns></returns>
         public static System.Drawing.Image resizeImage(System.Drawing.Image imgToResize, Size size)
         {
             //获取图片宽度
